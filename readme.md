@@ -46,8 +46,8 @@ src/
 
 1. Cloner le dépôt :
 ```bash
-git clone <url-du-dépôt>
-cd videogame-api
+git clone https://github.com/nygmasx/tp-api.git
+cd tp-api
 ```
 
 2. Installer les dépendances :
